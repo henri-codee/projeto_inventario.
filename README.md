@@ -2,6 +2,27 @@
 
 Este é um sistema de linha de comando (CLI) desenvolvido para gerenciar recursos em um cenário de sobrevivência. O projeto foi criado como parte de um desafio prático para aplicar conceitos de **Lógica de Programação**, **Banco de Dados**, **Estrutura de Dados** e **Versionamento**.
 
+---
+
+## 🧠 Aprendizados e Fundamentos
+
+De acordo com a metodologia de desenvolvedores sêniores, este projeto não é apenas um "exercício", mas sim a construção de uma **base sólida** de engenharia de software:
+
+### ⚙️ Habilidades Técnicas de Base
+* **Lógica de Programação:** A base para resolver qualquer problema técnico em vez de apenas decorar frameworks.
+* **Estrutura de Dados:** Como organizar a informação (itens do bunker) de forma eficiente para o computador processar.
+* **Banco de Dados:** Entendimento de como os sistemas realmente funcionam "por baixo do capô" e como a informação é persistida via SQLite.
+* **Versionamento (Git):** O controle profissional de como o código evolui ao longo do tempo.
+
+### 🧠 Postura e Mentalidade Profissional
+1. **Foco no Problema, não na Tarefa:** Entender o impacto que o sistema gera e o "porquê" de cada funcionalidade.
+2. **Código Pensado na Manutenção:** Escrita de arquivos legíveis e modulares, diferenciando um profissional de um amador.
+3. **Responsabilidade e Autonomia:** Investigar erros de ambiente (como terminal e permissões) e buscar soluções de forma independente.
+
+> 💡 **"Crescimento rápido é fruto de constância e base forte."**
+
+---
+
 ## 🚀 Funcionalidades
 
 - **Adicionar Itens:** Registra nome, quantidade e categoria dos recursos.
